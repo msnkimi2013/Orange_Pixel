@@ -1,5 +1,5 @@
 # Orange_Pixel
-Hand landguage detection using Mediapipe and Tensorflow
+Hand language detection using Mediapipe and Tensorflow
 
 
 # 자음 모음 Images
