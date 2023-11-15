@@ -17,3 +17,11 @@ Hand language detection using Mediapipe and Tensorflow
 ![alt text](https://github.com/msnkimi2013/Orange_Pixel/blob/main/Images/7.jpg?raw=true)
 
 
+# Tutorial Video
+
+[![Video]](https://youtu.be/4uQE8qbp4x4?si=UU8Vhe43zZZJvKiH)
+[![Video]](https://youtu.be/l-m9jP-IFpo?si=NJuFw3RA-YafBgro)
+[![Video]](https://youtu.be/gW2e2woRTm0?si=FAzNqCEH6pMLy7UP)
+[![Video]](https://youtu.be/Dv2I0gGOja8?si=CVe0onN2YZhVEC2v)
+
+
